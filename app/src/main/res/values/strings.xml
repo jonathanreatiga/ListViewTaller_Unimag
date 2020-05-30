@@ -14,4 +14,27 @@
         <item>@string/opcionesPrincipales_Operaciones</item>
     </string-array>
 
+    <string name="opcionesAreas_Cuadrado">Cuadrado</string>
+    <string name="opcionesAreas_Rectangulo">Rectángulo</string>
+    <string name="opcionesAreas_Triangulo">Triángulo</string>
+    <string name="opcionesAreas_Circulo">Círculo</string>
+    <string-array name="opcionesAreas">
+        <item>@string/opcionesAreas_Cuadrado</item>
+        <item>@string/opcionesAreas_Rectangulo</item>
+        <item>@string/opcionesAreas_Triangulo</item>
+        <item>@string/opcionesAreas_Circulo</item>
+    </string-array>
+
+    <string name="opcionesVolumenes_Esfera">Esfera</string>
+    <string name="opcionesVolumenes_Cilindro">Cilindro</string>
+    <string name="opcionesVolumenes_Cono">Cono</string>
+    <string name="opcionesVolumenes_Cubo">Cubo</string>
+    <string-array name="opcionesVolumenes">
+        <item>@string/opcionesVolumenes_Esfera</item>
+        <item>@string/opcionesVolumenes_Cilindro</item>
+        <item>@string/opcionesVolumenes_Cono</item>
+        <item>@string/opcionesVolumenes_Cubo</item>
+    </string-array>
+
+
 </resources>
