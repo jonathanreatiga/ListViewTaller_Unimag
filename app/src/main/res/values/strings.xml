@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ListViewTaller</string>
+    <string name="txtActivityMain_Titulo">Opciones</string>
+
+    <string name="opcionesPrincipales_Areas">Areas</string>
+    <string name="opcionesPrincipales_Volumenes">Volúmenes</string>
+    <string name="opcionesPrincipales_Operaciones">Operaciones realizadas</string>
+    <string-array name="opcionesPrincipales">
+        <item>@string/opcionesPrincipales_Areas</item>
+        <item>@string/opcionesPrincipales_Volumenes</item>
+        <item>@string/opcionesPrincipales_Operaciones</item>
+    </string-array>
+
 </resources>
