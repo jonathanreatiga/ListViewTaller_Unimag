@@ -29,12 +29,16 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 switch(position) {
                     case 0:
-                        //intent = new Intent(MainActivity.this, CrearPersonas.class);
-                        //startActivity(intent);
+                        intent = new Intent(MainActivity.this, AreasOperaciones.class);
+                        startActivity(intent);
                         break;
                     case 1:
-                        //intent = new Intent(MainActivity.this, ListarPersonas.class);
-                        //startActivity(intent);
+                        intent = new Intent(MainActivity.this, VolumenesOperaciones.class);
+                        startActivity(intent);
+                        break;
+                    case 2:
+                        intent = new Intent(MainActivity.this, OperacionesRealizadas.class);
+                        startActivity(intent);
                         break;
                 }}
         });

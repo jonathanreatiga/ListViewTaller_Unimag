@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">ListViewTaller</string>
     <string name="txtActivityMain_Titulo">Opciones</string>
+    <string name="txtAreasOperaciones_Titulo">Areas</string>
+    <string name="txtVolumenesOperaciones_Titulo">Volúmenes</string>
+    <string name="txtOperacionesRealizadas_Titulo">Realizadas</string>
 
     <string name="opcionesPrincipales_Areas">Areas</string>
     <string name="opcionesPrincipales_Volumenes">Volúmenes</string>

@@ -5,4 +5,7 @@
     <string name="opcionesPrincipales_Areas">Areas</string>
     <string name="opcionesPrincipales_Operaciones">Operations performed</string>
     <string name="opcionesPrincipales_Volumenes">Volumes</string>
+    <string name="txtAreasOperaciones_Titulo">Areas</string>
+    <string name="txtVolumenesOperaciones_Titulo">Volumes</string>
+    <string name="txtOperacionesRealizadas_Titulo">made</string>
 </resources>
