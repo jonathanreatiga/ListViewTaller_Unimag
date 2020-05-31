@@ -26,4 +26,7 @@
     <string name="tabla_Operacion">Operation</string>
     <string name="tabla_Datos">Data</string>
     <string name="tabla_Resultado">Result</string>
+    <string name="txtCalcularBase">" Base Value"</string>
+    <string name="txtCalcularAltura">" Height value"</string>
+    <string name="guardar_AreaDelRectangulo">" Rectangle Area"</string>
 </resources>

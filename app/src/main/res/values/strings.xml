@@ -36,19 +36,23 @@
         <item>@string/opcionesVolumenes_Cubo</item>
     </string-array>
 
-    <string name="txtCalcularCuadrado">Valor del Lado</string>
+
     <string name="btnCalcular">Calcular</string>
     <string name="btnLimpiar">Limpiar</string>
 
     <string name="error_CampoVacio">Campo vacio</string>
     <string name="error_CampoMenorCero">Campo menor y/o a 0</string>
     <string name="mensaje_guardado">Guardado</string>
-
     <string name="tabla_Operacion">Operación</string>
     <string name="tabla_Datos">Datos</string>
     <string name="tabla_Resultado">Resultado</string>
 
+    <string name="txtCalcularCuadrado">Valor del Lado</string>
     <string name="guardar_AreaDelCuadrado">Area del Cuadrado</string>
+    <string name="guardar_AreaDelRectangulo">Area del Rectangulo</string>
+
+    <string name="txtCalcularBase">Base</string>
+    <string name="txtCalcularAltura">Altura</string>
 
 
 </resources>
