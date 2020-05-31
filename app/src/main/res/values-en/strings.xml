@@ -29,4 +29,5 @@
     <string name="txtCalcularBase">" Base Value"</string>
     <string name="txtCalcularAltura">" Height value"</string>
     <string name="guardar_AreaDelRectangulo">" Rectangle Area"</string>
+    <string name="guardar_AreaDelTriangulo">Triangle Area</string>
 </resources>
