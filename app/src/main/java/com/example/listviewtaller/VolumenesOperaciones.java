@@ -29,16 +29,20 @@ public class VolumenesOperaciones extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 switch(position) {
                     case 0:
-                        //intent = new Intent(MainActivity.this, AreasOperaciones.class);
-                        //startActivity(intent);
+                        intent = new Intent(VolumenesOperaciones.this, Esfera.class);
+                        startActivity(intent);
                         break;
                     case 1:
-                        //intent = new Intent(MainActivity.this, VolumenesOperaciones.class);
-                        //startActivity(intent);
+                        intent = new Intent(VolumenesOperaciones.this, Cilindro.class);
+                        startActivity(intent);
                         break;
                     case 2:
-                        //intent = new Intent(MainActivity.this, OperacionesRealizadas.class);
-                        //startActivity(intent);
+                        intent = new Intent(VolumenesOperaciones.this, Cono.class);
+                        startActivity(intent);
+                        break;
+                    case 3:
+                        intent = new Intent(VolumenesOperaciones.this, Cubo.class);
+                        startActivity(intent);
                         break;
                 }}
         });
