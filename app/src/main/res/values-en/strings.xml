@@ -16,4 +16,14 @@
     <string name="opcionesVolumenes_Cilindro">Cylinder</string>
     <string name="opcionesVolumenes_Cono">Cone</string>
     <string name="opcionesVolumenes_Cubo">Cube</string>
+    <string name="txtCalcularCuadrado">Side Value</string>
+    <string name="btnCalcular">Calculate</string>
+    <string name="btnLimpiar">Clean</string>
+    <string name="error_CampoVacio">Empty field</string>
+    <string name="error_CampoMenorCero">Minor field and / or 0</string>
+    <string name="mensaje_guardado">Saved</string>
+    <string name="guardar_AreaDelCuadrado">Square Area</string>
+    <string name="tabla_Operacion">Operation</string>
+    <string name="tabla_Datos">Data</string>
+    <string name="tabla_Resultado">Result</string>
 </resources>
