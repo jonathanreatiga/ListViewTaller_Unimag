@@ -30,4 +30,6 @@
     <string name="txtCalcularAltura">" Height value"</string>
     <string name="guardar_AreaDelRectangulo">" Rectangle Area"</string>
     <string name="guardar_AreaDelTriangulo">Triangle Area</string>
+    <string name="txtCalcularCirculo">Radio</string>
+    <string name="guardar_AreaDelCirculo">Circle Area</string>
 </resources>

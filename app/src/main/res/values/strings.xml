@@ -51,9 +51,11 @@
     <string name="guardar_AreaDelCuadrado">Area del Cuadrado</string>
     <string name="guardar_AreaDelRectangulo">Area del Rectangulo</string>
     <string name="guardar_AreaDelTriangulo">Area del Triangulo</string>
+    <string name="guardar_AreaDelCirculo">Area del Circulo</string>
 
     <string name="txtCalcularBase">Base</string>
     <string name="txtCalcularAltura">Altura</string>
+    <string name="txtCalcularCirculo">Radio</string>
 
 
 </resources>
