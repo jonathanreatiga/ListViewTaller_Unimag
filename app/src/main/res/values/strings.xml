@@ -55,10 +55,11 @@
     <string name="guardar_VolumenEsfera">Volumen de Esfera</string>
     <string name="guardar_VolumenCilindro">Volumen de Cilindro</string>
     <string name="guardar_VolumenCono">Volumen del Cono</string>
+    <string name="guardar_VolumenCubo">Volumen del Cubo</string>
 
     <string name="txtCalcularBase">Base</string>
     <string name="txtCalcularAltura">Altura</string>
     <string name="txtCalcularCirculo">Radio</string>
-
+    <string name="txtCalcularArista">Arista</string>
 
 </resources>

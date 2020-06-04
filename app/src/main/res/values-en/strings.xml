@@ -35,4 +35,6 @@
     <string name="guardar_VolumenEsfera">" Volumen de Esfera"</string>
     <string name="guardar_VolumenCilindro">Volumen de Cilindro</string>
     <string name="guardar_VolumenCono">Cone Volume</string>
+    <string name="guardar_VolumenCubo">Cube Volume</string>
+    <string name="txtCalcularArista">Edge</string>
 </resources>
