@@ -54,6 +54,7 @@
     <string name="guardar_AreaDelCirculo">Area del Circulo</string>
     <string name="guardar_VolumenEsfera">Volumen de Esfera</string>
     <string name="guardar_VolumenCilindro">Volumen de Cilindro</string>
+    <string name="guardar_VolumenCono">Volumen del Cono</string>
 
     <string name="txtCalcularBase">Base</string>
     <string name="txtCalcularAltura">Altura</string>
